@@ -8,8 +8,8 @@
 	"styles": ["fate.css"],
 	"socket": true,
 	"url": "https://github.com/shawnstaggs/roll-of-fate/tree/Personal-Fork",
-	"manifest": "https://github.com/shawnstaggs/roll-of-fate/blob/Personal-Fork/module.json",
-	"download": "https://github.com/shawnstaggs/roll-of-fate/blob/Personal-Fork/fate.zip",
+	"manifest": "https://raw.githubusercontent.com/shawnstaggs/roll-of-fate/Personal-Fork/module.json",
+	"download": "https://github.com/shawnstaggs/roll-of-fate/raw/Personal-Fork/fate.zip",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "11"
