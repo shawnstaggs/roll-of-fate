@@ -6,10 +6,10 @@
 	"author": "Handyfon#8390",
 	"esmodules": ["fate.js"],
 	"styles": ["fate.css"],
-	 "socket": true,
-    "url": "https://github.com/Handyfon/roll-of-fate/tree/master",
-    "manifest": "https://raw.githubusercontent.com/Handyfon/roll-of-fate/master/module.json",
-    "download": "https://github.com/Handyfon/roll-of-fate/raw/master/fate.zip",
+	"socket": true,
+	"url": "https://github.com/shawnstaggs/roll-of-fate/tree/Personal-Fork",
+	"manifest": "https://github.com/shawnstaggs/roll-of-fate/blob/Personal-Fork/module.json",
+	"download": "https://github.com/shawnstaggs/roll-of-fate/blob/Personal-Fork/fate.zip",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "11"
